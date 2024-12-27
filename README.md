@@ -2,7 +2,7 @@ Name: Sanket Kanase
 Company: Codtech IT Solutions  
 ID: CT08DS324  
 Domain: Data Analytics  
-Duration: Nov 2024 - Jan 2025
+Duration: Dec 2024 - Jan 2025
 
 # Customer Churn Analysis
 Objective
